@@ -22,16 +22,16 @@ This roadmap documents my self-taught path to mastering Data Science over the co
 ## 📍 Phase 1: Fundamentals of Programming, Mathematics & Data Analysis
 
 ### 🔹 1. Learn Python & Programming Basics
-- ✅ Python, R basics
-- ✅ Practice: HackerRank, LeetCode
+-  Python, R basics
+-  Practice: HackerRank, LeetCode
 
 ### 🔹 2. Data Structures & Algorithms
-- ✅ Arrays, Trees, Graphs
-- ✅ Practice: Codeforces, CodeWars
+-  Arrays, Trees, Graphs
+-  Practice: Codeforces, CodeWars
 
 ### 🔹 3. Mathematics & Statistics
-- ✅ Linear Algebra, Calculus, Probability
-- ✅ Practice: DataCamp, Kaggle
+-  Linear Algebra, Calculus, Probability
+-  Practice: DataCamp, Kaggle
 
 ---
 
